@@ -1,0 +1,11 @@
+.photos {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.photo {
+    margin: 5rem;
+    width: 30%;
+}
